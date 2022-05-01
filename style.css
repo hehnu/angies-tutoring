@@ -31,7 +31,7 @@ section{
 }
 
 .background{
-  background:url(../images/background.png) no-repeat;
+  background:url(https://hehnu.github.io/angies-tutoring/images/background.png) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -63,12 +63,12 @@ section{
 }
 
 .up-and-down::before{
-  background:url(../images/img-top.png) no-repeat;
+  background:url(https://hehnu.github.io/angies-tutoring/images/img-top.png) no-repeat;
   top:-6rem;
 }
 
 .up-and-down::after{
-  background:url(../images/img-down.png) no-repeat;
+  background:url(https://hehnu.github.io/angies-tutoring/images/img-down.png) no-repeat;
   bottom:-6rem;
 }
 
@@ -82,7 +82,7 @@ section{
 header{
   position: fixed;
   top:0; left: 0; right: 0;
-  background:url(../images/header-bg.png) no-repeat;
+  background:url(https://hehnu.github.io/angies-tutoring/images/header-bg.png) no-repeat;
   background-size: cover;
   background-position: bottom;
   z-index: 10000;
@@ -289,7 +289,7 @@ header .navbar a:hover{
   border:.1rem solid rgba(0,0,0,.3);
   border-radius: 1rem;
   text-align: center;
-  background:url(../images/card-bg1.png) no-repeat;
+  background:url(https://hehnu.github.io/angies-tutoring/images/card-bg1.png) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -509,7 +509,7 @@ header .navbar a:hover{
   position: absolute;
   top:-8rem; left: 50%;
   transform: translateX(-50%);
-  background:url(../images/img-top.png) no-repeat;
+  background:url(https://hehnu.github.io/angies-tutoring/images/img-top.png) no-repeat;
   background-size: cover;
   height: 8rem;
   width:100%;
@@ -560,7 +560,7 @@ header .navbar a:hover{
     top:70%; left: 0; right: 0;
     height: calc(100vh - 70%);
     border-top: .2rem solid #333;
-    background:url(../images/card-bg1.png) no-repeat;
+    background:url(https://hehnu.github.io/angies-tutoring/images/card-bg1.png) no-repeat;
     background-size: cover;
     background-position: center;
     clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
