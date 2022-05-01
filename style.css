@@ -7,6 +7,7 @@
   box-sizing: border-box;
   font-family: cursive;
   text-transform: capitalize;
+  font-weight: 900;
   text-decoration: none;
   outline:none; border:none;
   transition: all .2s ease-out;
